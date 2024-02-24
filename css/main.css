@@ -1,0 +1,41 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container{
+    width: 400px;
+    height: 1000vh;
+    background-color:dodgerblue ;
+}
+
+/* body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    background-color: black;
+}
+
+.container {
+    width: 400px;
+    height: 400px;
+    display: flex;
+    align-items: center;
+
+}
+
+.container>img {
+    width: 10%;
+    height: 100%;
+    border: 2px solid;
+    cursor: pointer;
+    border-radius: 12px;
+    filter: saturate(0%);
+    transition: .5s;
+}
+
+.container>img:hover {
+    filter: saturate(100%);
+    width: 100%;
+} */
